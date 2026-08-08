@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuvraj.R;Aspiring+DevOps+%26+Cloud+Engineer;Building+My+DevOps+Journey+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+---
+
 ### ☁️ Aspiring DevOps & Cloud Engineer
 
 <p>
