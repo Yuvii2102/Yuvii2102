@@ -26,7 +26,7 @@
 
 🐧 Email : yuvrajmysuru@gmail.com
 
-📊 Linked In : https://www.linkedin.com/in/yuvraj-r
+📊 LinkedIn : https://www.linkedin.com/in/yuvraj-r
 
 ---
 
