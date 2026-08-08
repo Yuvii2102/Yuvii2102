@@ -103,6 +103,35 @@
 
 </div>
 
+---
+
+### 📈 GitHub Insights
+
+<div align="center">
+
+#### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br>
+
+#### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Yuvii2102&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+
 📊 GitHub Statistics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvii2102&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
 🔥 GitHub Streak
