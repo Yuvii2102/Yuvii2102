@@ -99,16 +99,6 @@
 
 <div align="center">
 
-!(https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br>
