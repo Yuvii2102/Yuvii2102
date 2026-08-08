@@ -109,13 +109,9 @@
 
 <div align="center">
 
-#### 📊 GitHub Statistics
-
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br>
-
-#### 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Yuvii2102&theme=tokyonight&hide_border=true" />
 
