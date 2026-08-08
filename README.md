@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <br>
 
@@ -124,6 +124,7 @@
 <a href="https://www.linkedin.com/in/yuvraj-r">
   <img src="https://img.shields.io/badge/LinkedIn-Yuvraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <a href="mailto:yuvrajmysuru@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yuvrajmysuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
