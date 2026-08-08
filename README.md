@@ -48,8 +48,6 @@
 
 # 🛠️ Tech Stack & Tools
 
-# 🛠️ Tech Stack & Tools
-
 ### 💻 Programming & Web Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
