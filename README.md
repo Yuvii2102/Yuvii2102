@@ -30,7 +30,7 @@
 
 ☁️ Skilled in Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Bash, and Python.
 
-🐧 Email : yuvrajmysuru@gmail.com
+📬 Email : yuvrajmysuru@gmail.com
 
 📊 LinkedIn : https://www.linkedin.com/in/yuvraj-r
 
