@@ -115,3 +115,27 @@
 </div>
 
 
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yuvraj-r">
+  <img src="https://img.shields.io/badge/LinkedIn-Yuvraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yuvrajmysuru@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yuvrajmysuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Let's Connect, Build & Grow Together!
+
+</div>
+
