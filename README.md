@@ -53,15 +53,9 @@
 
 ---
 
-### 📈 GitHub Insights
-
-<h2 align="center">📈 GitHub Statistics</h2>
+<h2 align="center">📈 GitHub Insights</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvii2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yuvii2102&theme=tokyonight&hide_border=true" />
 
