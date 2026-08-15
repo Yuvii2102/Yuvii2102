@@ -11,7 +11,7 @@
 ### 🚀 Building • Breaking • Fixing • Automating
 
 > Turning infrastructure into automation,  
-> problems into solutions, and ideas into real-world projects.
+> problems into solutions and ideas into real-world projects.
 
 <p>
   <img src="https://img.shields.io/badge/☁️%20Cloud-AWS-FF9900?style=for-the-badge"/>
