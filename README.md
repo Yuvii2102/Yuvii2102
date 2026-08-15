@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <i>Building my skills one command, container and cloud resource at a time 🚀</i>
+  <i>Building my skills one command, container and cloud resource at a time </i>
 </p>
 
 </div>
