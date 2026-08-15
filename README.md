@@ -39,6 +39,8 @@
 
 📊 LinkedIn : https://www.linkedin.com/in/yuvraj-r
 
+📝 Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
+
 ---
 
 # 🛠️ Tech Stack & Tools
@@ -95,6 +97,10 @@
 
 <a href="mailto:yuvrajmysuru@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yuvrajmysuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-DevOps_Journey-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 </p>
