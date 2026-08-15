@@ -33,7 +33,7 @@
 
 🎓 BCA graduate passionate about **DevOps, Cloud Computing, Front-end and Automation**.
 
-☁️ Skilled in Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Bash, and Python.
+☁️ Skilled in Linux, Terraform, Docker, Kubernetes, Jenkins, Java and Python.
 
 📬 Email : yuvrajmysuru@gmail.com
 
