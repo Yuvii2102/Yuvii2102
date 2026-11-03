@@ -29,7 +29,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 BCA graduate passionate about **DevOps, Cloud Computing, Front-end and Automation**.
 
@@ -43,7 +43,7 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 ---
 
-<h2 align="center">📈 GitHub Insights</h2>
+<h2 align="center">GitHub Insights</h2>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 </div>
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
 
