@@ -31,15 +31,15 @@
 
 # 👨‍💻 About Me
 
-🎓 BCA graduate passionate about **DevOps, Cloud Computing, Front-end and Automation**.
+BCA graduate passionate about **DevOps, Cloud Computing, Front-end and Automation**.
 
-☁️ Skilled in Linux, Git, AWS, Ansible, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Java and Python.
+Skilled in Linux, Git, AWS, Ansible, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Java and Python.
 
-📬 Email : yuvrajmysuru@gmail.com
+Email : yuvrajmysuru@gmail.com
 
-📊 LinkedIn : https://www.linkedin.com/in/yuvraj-r
+LinkedIn : https://www.linkedin.com/in/yuvraj-r
 
-📝 Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
+Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 ---
 
