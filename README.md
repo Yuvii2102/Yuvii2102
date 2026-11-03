@@ -29,7 +29,7 @@
 
 ---
 
-# About Me
+# About Me 🙋🏻‍♂️
 
 BCA graduate passionate about **DevOps, Cloud Computing, Front-end and Automation**.
 
@@ -43,26 +43,28 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 ---
 
-# Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<h2 align="center">Tech Stack & Tools</h2>
 
-![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-FF6F00?style=flat&logo=fastapi&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-FF6F00?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
+</p>
 
 ---
 
@@ -70,26 +72,24 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Yuvii2102&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yuvii2102&theme=tokyonight&hide_border=true" />
 
 </div>
 
-### Connect With Me
+---
+
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/yuvraj-r">
-  <img src="https://img.shields.io/badge/LinkedIn-Yuvraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yuvrajmysuru@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yuvrajmysuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-DevOps_Journey-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/yuvraj-r">
+    <img src="https://img.shields.io/badge/LinkedIn-Yuvraj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yuvrajmysuru@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yuvrajmysuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-DevOps_Journey-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -99,4 +99,3 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 ### Let's Connect, Build & Grow Together!
 
 </div>
-
