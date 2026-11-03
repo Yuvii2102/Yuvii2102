@@ -8,7 +8,7 @@
 
 </div>
 
-### 🚀 Building • Breaking • Fixing • Automating
+### Building • Breaking • Fixing • Automating
 
 > Turning infrastructure into automation,  
 > problems into solutions and ideas into real-world projects.
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-### 🚀 Let's Connect, Build & Grow Together!
+### Let's Connect, Build & Grow Together!
 
 </div>
 
