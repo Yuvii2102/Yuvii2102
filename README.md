@@ -68,13 +68,15 @@ Hashnode : https://build-break-fix-diaries-with-yuvrajj.hashnode.dev/
 
 ---
 
+
 <h2 align="center">GitHub Insights</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yuvii2102&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yuvii2102&theme=tokyonight&hide_border=true&v=2" />
 
 </div>
+
 
 ---
 
